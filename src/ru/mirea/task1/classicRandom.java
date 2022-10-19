@@ -1,6 +1,6 @@
 package ru.mirea.task1.opt3;
 import java.util.Random;
-public class classicRandom {
+public class ClassicRandom {
     public static void main(String[] args) {
         Random r = new Random();
         int a;
