@@ -1,4 +1,4 @@
-package ru.mirea.task7.hfd;
+package ru.mirea.task7.hfdd;
 
 public class MovableRectangle extends MovablePoint implements Movable {
     private int topLeft;

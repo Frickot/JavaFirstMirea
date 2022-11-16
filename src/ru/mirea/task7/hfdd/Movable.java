@@ -1,4 +1,4 @@
-package ru.mirea.task7.hfd;
+package ru.mirea.task7.hfdd;
 
 public interface Movable {
     public abstract void moveUp();
